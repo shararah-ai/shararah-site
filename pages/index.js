@@ -33,8 +33,9 @@ export default function Home() {
     justifyContent: 'center',
     alignItems: 'center',
     marginTop: '2rem'
-  }}>
-    <<img
+  }}
+  >
+    <img
   src="/spark-icon.png"
   alt="Spark Icon"
   style={{
