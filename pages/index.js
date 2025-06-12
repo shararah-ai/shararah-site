@@ -34,11 +34,15 @@ export default function Home() {
     alignItems: 'center',
     marginTop: '2rem'
   }}>
-    <img src="/spark-icon.png" alt="Spark Icon" style={{
-      width: '40px',
-      height: '40px',
-      marginRight: '1rem'
-    }} />
+    <<img
+  src="/spark-icon.png"
+  alt="Spark Icon"
+  style={{
+    width: '40px',
+    height: '40px',
+    marginRight: '1rem'
+  }}
+/>
     <span style={{ fontWeight: 'bold', fontSize: '1rem' }}>
       “Shararah شرارة” means Spark – because every fire starts with one.
     </span>
